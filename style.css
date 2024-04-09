@@ -1,0 +1,17 @@
+span {
+  background: linear-gradient(to top, #dd0000, #880000); 
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+border-bottom-left-radius: 25px; 
+border-bottom-right-radius: 25px; 
+-moz-border-radius: 25px;
+-webkit-border-radius: 25px;
+-o-border-radius: 25px;
+padding: 10px;
+margin: 10px;
+border-style: outset;
+border-width: 5px;
+align-items: center;
+height: 100px;
+color: #ffffff
+}
